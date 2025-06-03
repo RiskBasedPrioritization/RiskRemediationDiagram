@@ -54,7 +54,10 @@ Title Risk Remediation Taxonomy for CVEs/vulnerabilities
 *******_ <:dollar:>** Vendor DBs** which may include other sources
 
 
-*****_  <:green_book:> **Probability of Exploitation Activity in the next 30 days % **(EPSS Exploit Prediction Scoring System v3) which covers the range of proability from 0 to 1.
+*****_  <:green_book:> **Probability of Exploitation Activity in the NEXT 30 days % **(EPSS Exploit Prediction Scoring System v3) which covers the range of proability from 0 to 1.
+*****_  <:green_book:> **Likely Exploited Vulnerabilities (NIST LEV) probability of exploitation in the PAST** using historical EPSS scores to quantify past exploitation probability
+
+
 
 ****_ **Exploitability Metrics ** How easy is it to exploit? e.g. is it easily automated. [CVSS Base Metric - Exploitability Metrics]
 *****_ <:green_book:> **Attack Vector** 
@@ -152,6 +155,7 @@ Title Risk Remediation Taxonomy for CVEs/vulnerabilities
 
 *** **Technical Impact** <<asset>>
 
+**** **MITRE Common Weakness Scoring System (CWSS)** "users of CWSS can invoke attack surface and environmental metrics to apply contextual information that more accurately reflects the risk to the software capability, given the unique business context it will function within and the unique business capability it is meant to provide"
 **** **Vulnerability Impact Scoring System (VISS)** the impact on the Confidentiality / Integrity / Availability of the platform/tenants/data involved by the successful exploitation of the security vulnerability found 
 
 ****_ <:closed_book:> <:writing_hand:> **Asset Value <Asset Inventory>**
