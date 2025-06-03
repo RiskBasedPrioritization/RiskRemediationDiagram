@@ -56,7 +56,7 @@ Please refer to the [Contributing.md](./Contributing.md) file for information ab
 The diagram(s) are written in the wonderful [Plantuml](https://plantuml.com).
 * See https://plantuml.com/running for the many ways to render Plantuml. e.g. 
   ````
-  plantuml *.puml -o ./images
+  plantuml imagesAsCode/*.puml -o ./images
   ````
 * or type 
 

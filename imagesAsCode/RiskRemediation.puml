@@ -54,8 +54,8 @@ Title Risk Remediation Taxonomy for CVEs/vulnerabilities
 *******_ <:dollar:>** Vendor DBs** which may include other sources
 
 
-*****_  <:green_book:> **Probability of Exploitation Activity in the NEXT 30 days % **(EPSS Exploit Prediction Scoring System v3) which covers the range of proability from 0 to 1.
-*****_  <:green_book:> **Likely Exploited Vulnerabilities (NIST LEV) probability of exploitation in the PAST** using historical EPSS scores to quantify past exploitation probability
+*****_  <:green_book:> **Probability of Exploitation Activity in the NEXT 30 days % **(EPSS Exploit Prediction Scoring System) covers the range of proability from 0 to 1.
+*****_  <:green_book:> **Probability of Exploitation in the PAST %** NIST Likely Exploited Vulnerabilities (LEV) uses historical EPSS scores to quantify past exploitation probability
 
 
 
