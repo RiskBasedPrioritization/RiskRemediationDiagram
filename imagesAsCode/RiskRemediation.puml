@@ -137,6 +137,7 @@ Title Risk Remediation Taxonomy for CVEs/vulnerabilities
 *** **Threat** <<asset>>
 ****_ **Likelihood** 
 *****_ <:closed_book:> **Incident Response** has the Asset been attacked?
+*****_ <:green_book:> **Grouped EPSS** the probability that one CVE on the asset will be exploited in the next 30 days
 *****_ <:closed_book:> **Number of assets with that CVE (SBOMs)**
 *****_ <:closed_book:> **Number of instances of that CVE (SBOMs)**
 *****_ **Vulnerability Chaining**
